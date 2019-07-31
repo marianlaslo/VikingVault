@@ -1,12 +1,12 @@
 import React from 'react'
 import './styles.css'
-import dashboard from './dashboard.png'
-import sagetutza from './arrowGRIdeschis.png'
-import placeholder from './placeholder.png'
-import paymentmethod from './payment-method.png';
-import block from './password.png'
-import transfer from './transfer.png'
-import card from './business-card-of-a-man-with-contact-info.png'
+import dashboard from './images/dashboard.png'
+import sagetutza from './images/arrowGRIdeschis.png'
+import placeholder from './images/placeholder.png'
+import paymentmethod from './images/payment-method.png';
+import block from './images/password.png'
+import transfer from './images/transfer.png'
+import card from './images/business-card-of-a-man-with-contact-info.png'
 
 
 interface ISideBarState{

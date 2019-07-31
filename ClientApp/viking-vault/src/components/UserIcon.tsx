@@ -1,5 +1,5 @@
 import React from "react";
-import icon from "./user2.png";
+import icon from "./images/user2.png";
 import "./styles.css";
 
 interface IUserIconState {
